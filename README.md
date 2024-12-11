@@ -2,6 +2,8 @@
 
 Este proyecto permite gestionar rutinas personalizadas usando una base de datos. Se implementan algoritmos de decisión y una interfaz gráfica amigable para el usuario.
 
+Aun no esta terminado.
+
 ## Tecnologías Usadas
 
 - **Pandas**: Manipulación de datos.
