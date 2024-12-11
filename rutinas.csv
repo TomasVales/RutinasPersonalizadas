@@ -1,0 +1,91 @@
+edad,peso,altura,horas_sue√±o,desgaste_fisico,medicamentos,sexo,tipo_rutina,rutina
+35,54.6,1.70,9,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_1
+25,65.7,1.57,7,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_2
+20,61.7,1.53,9,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_3
+21,53.8,1.65,8,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_4
+24,58.1,1.67,7,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_5
+35,66.2,1.7,7,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_6
+21,63.4,1.6,7,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_7
+27,54.2,1.6,9,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_8
+30,50.3,1.61,8,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_9
+31,64.2,1.73,9,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_10
+30,63.3,1.53,7,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_11
+30,54.9,1.63,6,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_12
+25,58.7,1.57,9,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_13
+22,53.4,1.69,8,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_14
+24,56.4,1.54,8,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_15
+24,59.2,1.64,8,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_16
+22,64.7,1.55,9,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_17
+27,56.0,1.54,8,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_18
+21,51.3,1.68,8,Bajo,No,Mujer,Hipertrofia,Hipertrofia_Mujer_19
+32,50.7,1.55,9,Medio,No,Mujer,Hipertrofia,Hipertrofia_Mujer_20
+35,52.9,1.57,6,Medio,No,Hombre,Fuerza,Fuerza_Hombre_1
+25,69.8,1.6,9,Medio,No,Hombre,Fuerza,Fuerza_Hombre_2
+31,61.9,1.74,7,Medio,No,Hombre,Fuerza,Fuerza_Hombre_3
+30,54.8,1.56,8,Medio,No,Hombre,Fuerza,Fuerza_Hombre_4
+22,64.2,1.73,7,Medio,No,Hombre,Fuerza,Fuerza_Hombre_5
+30,67.5,1.5,7,Medio,No,Hombre,Fuerza,Fuerza_Hombre_6
+21,59.2,1.6,7,Medio,No,Hombre,Fuerza,Fuerza_Hombre_7
+22,50.5,1.68,6,Medio,No,Hombre,Fuerza,Fuerza_Hombre_8
+33,52.2,1.7,6,Medio,No,Hombre,Fuerza,Fuerza_Hombre_9
+20,50.1,1.68,8,Medio,No,Hombre,Fuerza,Fuerza_Hombre_10
+32,63.8,1.63,8,Medio,No,Hombre,Fuerza,Fuerza_Hombre_11
+28,62.0,1.69,7,Medio,No,Hombre,Fuerza,Fuerza_Hombre_12
+29,56.2,1.69,7,Medio,No,Hombre,Fuerza,Fuerza_Hombre_13
+28,51.4,1.59,8,Medio,No,Hombre,Fuerza,Fuerza_Hombre_14
+35,59.1,1.65,6,Medio,No,Hombre,Fuerza,Fuerza_Hombre_15
+27,64.0,1.54,9,Medio,No,Hombre,Fuerza,Fuerza_Hombre_16
+24,66.7,1.66,8,Medio,No,Hombre,Fuerza,Fuerza_Hombre_17
+33,65.1,1.54,7,Medio,No,Hombre,Fuerza,Fuerza_Hombre_18
+26,51.6,1.71,6,Medio,No,Hombre,Fuerza,Fuerza_Hombre_19
+30,59.6,1.6,7,Medio,No,Hombre,Fuerza,Fuerza_Hombre_20
+20,52.6,1.57,7,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_1
+22,60.5,1.58,9,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_2
+31,55.7,1.62,7,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_3
+26,52.1,1.62,8,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_4
+28,59.8,1.73,9,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_5
+27,61.0,1.68,7,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_6
+24,58.9,1.51,8,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_7
+32,56.3,1.52,6,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_8
+24,51.8,1.57,6,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_9
+21,55.3,1.57,6,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_10
+26,50.3,1.61,9,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_11
+34,52.2,1.74,9,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_12
+22,57.5,1.72,6,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_13
+25,53.4,1.64,8,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_14
+21,65.0,1.52,7,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_15
+20,64.8,1.62,8,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_16
+31,60.0,1.56,7,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_17
+35,54.0,1.7,7,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_18
+27,59.5,1.58,6,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_19
+31,64.6,1.51,9,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_20
+26,71.5,1.71,9,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_21
+28,85.7,1.71,9,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_22
+22,78.6,1.88,6,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_23
+33,77.4,1.82,8,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_24
+33,75.9,1.85,8,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_25
+25,78.9,1.76,8,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_26
+32,75.8,1.88,7,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_27
+29,71.2,1.8,7,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_28
+20,79.0,1.72,9,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_29
+34,88.1,1.81,9,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio2_30
+23,74.8,1.65,5,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_31
+28,82.3,1.78,6,Alto,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_32
+21,68.9,1.73,4,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_33
+19,71.4,1.68,3,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_34
+25,76.5,1.72,7,Alto,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_35
+22,65.8,1.66,4,Medio,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_36
+27,88.2,1.80,8,Alto,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_37
+24,70.0,1.67,5,Medioo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_38
+20,64.7,1.70,3,Bajo,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_39
+26,85.4,1.75,7,Alto,No,Hombre,Hipertrofia,Hipertrofia_Hombre_Intermedio_40
+38,78.2,1.70,6,Medio,No,Mujer,Descenso de peso,Descenso_Mujer_Intermedio_1
+42,85.4,1.68,7,Medio,No,Mujer,Descenso de peso,Descenso_Mujer_Avanzado_2
+36,64.5,1.65,3,Bajo,No,Mujer,Descenso de peso,Descenso_Mujer_B·sico_3
+47,81.0,1.73,5,Medio,No,Mujer,Descenso de peso,Descenso_Mujer_Intermedio_4
+40,70.8,1.60,4,Bajo,No,Mujer,Descenso de peso,Descenso_Mujer_B·sico_5
+45,90.0,1.75,8,Alto,No,Mujer,Descenso de peso,Descenso_Mujer_Avanzado_6
+39,68.9,1.63,5,Medio,No,Mujer,Descenso de peso,Descenso_Mujer_Intermedio_7
+44,79.6,1.70,6,Moderado,No,Mujer,Descenso de peso,Descenso_Mujer_Intermedio_8
+35,62.0,1.62,3,Bajo,No,Mujer,Descenso de peso,Descenso_Mujer_B·sico_9
+50,88.5,1.74,7,Alto,No,Mujer,Descenso de peso,Descenso_Mujer_Avanzado_10
